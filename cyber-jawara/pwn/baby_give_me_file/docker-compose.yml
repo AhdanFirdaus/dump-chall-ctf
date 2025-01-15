@@ -1,0 +1,11 @@
+services:
+  baby-give-me-file:
+    build: .
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
+    ports:
+      - target: 10001
+        published: 10001
+        protocol: tcp
