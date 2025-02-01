@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jan 11 16:03:05 2025
+Invocation: foremost -i g.gif 
+Output directory: /home/raku/ctf/cj2024/forens/grayscale/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: g.gif
+Start: Sat Jan 11 16:03:05 2025
+Length: 5 KB (5503 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sat Jan 11 16:03:05 2025
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sat Jan 11 16:03:05 2025
