@@ -1,0 +1,1 @@
+[print(bytes([a^b for a,b in zip(r.randbytes(len(m)),m)]).hex()) for _ in range(1024) if not(m:=bytes.fromhex(input())) is None and not(e:=int(input())) is None and not(r:=__import__('random').Random(int.from_bytes(b'***THE FLAG DOESNT HAVE FORMAT BTW***','big')^e)) is None]
